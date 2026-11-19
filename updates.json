@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "tracker@ai-availability-tracker.local": {
+      "updates": [
+        {
+          "version": "0.2.0",
+          "update_link": "https://balaganeshkumar.github.io/ai-tracker-updates/ai-availability-tracker-0.2.0.xpi",
+          "update_hash": "sha256:4758527da6c050773237aa98418363acf9f1d446b054fa0df301fb955d711b82"
+        }
+      ]
+    }
+  }
+}
