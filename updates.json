@@ -3,6 +3,11 @@
     "tracker@ai-availability-tracker.local": {
       "updates": [
         {
+          "version": "0.3.2",
+          "update_link": "https://balaganeshkumar.github.io/ai-tracker-updates/ai-availability-tracker-0.3.2.xpi",
+          "update_hash": "sha256:c7eb51fd1121ccb79c8b6330deb993be2429a3d408e8f6aff093e72be8dfba94"
+        },
+        {
           "version": "0.3.0",
           "update_link": "https://balaganeshkumar.github.io/ai-tracker-updates/ai-availability-tracker-0.3.0.xpi",
           "update_hash": "sha256:bb649a94316ed9d95617e399543b672c5812942181253d9339ac816e197bf132"
